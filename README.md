@@ -1,5 +1,5 @@
 # FileSSH
-File over SSH to PC App
+File Sharing over SSH from Android to PC App
 - MVVM
 - Compose
 - SSH
